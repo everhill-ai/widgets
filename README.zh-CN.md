@@ -6,6 +6,8 @@
 由 [EverHill AI](https://everhill.ai/zh/) 撰写并全天更新。支持英文、简体中文和繁体中文，
 以及浅色和深色。
 
+![EverHill 摘要小组件：浅色与深色](brief/screenshot.png)
+
 在 **https://everhill.ai/zh/widgets/** 选好样式并复制代码，或直接粘贴下面这段：
 
 ```html

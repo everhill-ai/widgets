@@ -6,6 +6,8 @@ Put today's market drivers on your site: a free card with the day's most importa
 and the drivers behind it, written by [EverHill AI](https://everhill.ai/) and updated through
 the day. English, Simplified Chinese and Traditional Chinese; light and dark.
 
+![The EverHill brief widget in light and dark](brief/screenshot.png)
+
 Pick the options and copy the code at **https://everhill.ai/widgets/**, or paste this:
 
 ```html
